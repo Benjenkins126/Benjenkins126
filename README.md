@@ -4,9 +4,6 @@ Hi 👋 My name is Ben Jenkins
 Software Developer and Website Developer
 ----------------------------------------
 
-I've been coding since the age of 13 with strong ambitions to one day become a full-time developer. Since then I have achieved my goal and continue to grow my list of known languages and frameworks regularly to gain as much knowledge as possible I am fascinated by Artificial Intelligence and Machine Learning, and it has been on my list for a while to become more familiar with.
-
-* 🖥️  See my portfolio at [My Website](http://benjenkins.xyz)
 * ✉️  You can contact me at [ben@slashy.co.uk](mailto:ben@slashy.co.uk)
 * 🧠  I'm learning Python
 
